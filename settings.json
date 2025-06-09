@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "src/com/example/CarcinogenicProductIdentifier/model",
-        "src/main/java/com/example/CarcinogenicProductIdentifier/database"
-    ],
-    "java.configuration.updateBuildConfiguration": "automatic",
-    "java.compile.nullAnalysis.mode": "automatic"
-}
